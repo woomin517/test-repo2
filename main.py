@@ -12,4 +12,4 @@ num2 = int(second)
 result = num1 - num2
 
 #결과 출력
-print("Calculate:", result) 
+print("Difference:", result) 
