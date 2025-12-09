@@ -8,8 +8,8 @@ second = input("Enter the second number: ")
 num1 = int(first)
 num2 = int(second)
 
-# 합 계산
-result = num1 + num2
+# 빼기 계산
+result = num1 - num2
 
 #결과 출력
-print("Sum:", result) 
+print("Calculate:", result) 
